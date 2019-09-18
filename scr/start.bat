@@ -23,7 +23,7 @@ set Login=1
 set Effective=1
  
 ::设置图片更换频率（毫秒），有效值（6000 - 180000）
-set Interval=60000
+set Interval=30000
  
 ::设置图片在屏幕上显示的尺寸大小（%），有效值（25 - 100）
 set Percent=100
